@@ -22,6 +22,6 @@ All project files, including detailed Colab notebooks and supplementary material
 
 ##### How to Use This Repository
 Clone the repository:
-git clone https://github.com/Praful-John2409/AutoML-with-PyCaret.git
+git clone [https://github.com/Praful-John2409/AutoML-with-PyCaret.git](https://github.com/shrutiebony/PyCaretassignment.git)
 Navigate to the pycaret folder to explore individual projects.
 Follow along with the provided notebooks or watch the video walkthroughs to deepen your understanding.
