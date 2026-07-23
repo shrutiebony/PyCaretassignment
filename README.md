@@ -19,9 +19,3 @@ This repository contains a collection of projects leveraging PyCaret's AutoML ca
 ##### Access the PyCaret Files
 All project files, including detailed Colab notebooks and supplementary materials, can be found in the Google Drive folder. This drive contains all the resources you need to explore the models and their implementations.
 
-
-##### How to Use This Repository
-Clone the repository:
-git clone [https://github.com/Praful-John2409/AutoML-with-PyCaret.git](https://github.com/shrutiebony/PyCaretassignment.git)
-Navigate to the pycaret folder to explore individual projects.
-Follow along with the provided notebooks or watch the video walkthroughs to deepen your understanding.
